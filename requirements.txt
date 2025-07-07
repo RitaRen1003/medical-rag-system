@@ -1,0 +1,20 @@
+# Core dependencies
+graphiti-core>=0.1.0
+neo4j>=5.0.0
+openai>=0.27.0
+python-dotenv>=1.0.0
+
+# UMLS processing
+quickumls>=1.4.0
+requests>=2.28.0
+
+# Utilities
+tqdm>=4.65.0
+asyncio>=3.4.3
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Logging and monitoring
+colorlog>=6.7.0s

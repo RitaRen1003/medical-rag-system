@@ -99,7 +99,7 @@ python -m medical_rag.graph_stats
 ```
 
 #### Example Usage
-'''
+```bash
 # Import PubMed data
 python -m medical_rag.data_import
 
@@ -117,7 +117,7 @@ python main.py stats
 
 # Run demos
 python main.py demo
-'''
+```
 
 ## Project Structure
 

@@ -21,8 +21,8 @@ A medical knowledge retrieval and generation system that combines Neo4j graph da
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/RitaRen1003/medical-rag-system.git
-cd medical-rag-system
+git clone https://github.com/RitaRen1003/medical_rag.git
+cd medical_rag
 ```
 
 2. Install dependencies:
